@@ -1,0 +1,8 @@
+1. UNO Home automation(Aurdino)
+2. Laser tripwire alarm security system(Aurdino)
+3. Aurdino RFID Door lock
+4. IOT Temperature Mask scan Entry system
+5. IOT contactless Doorbell
+6. Build your own IoT Based Android Application to 
+   control an LED on Arduino using Bluetooth 
+7. Telegram Controlled Home Automation using Raspberry Pi

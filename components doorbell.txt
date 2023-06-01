@@ -1,0 +1,10 @@
+components of doorbell
+1. CardBoard = Rs 20 (atmost 30)
+2. Ultrasonic sensor = Rs 115 (atmost 130)
+3. Buzzer = Rs 100(atmost 150)
+4. Jumper wires = Rs 240 (atmost 250)
+5.Charging module =Rs atmost 300
+6. 3.7 V battery = rs 100
+7. Led light = rs 80 to 90
+8.1 K resistor =Rs 260
+9. SPHF switch Rs 100

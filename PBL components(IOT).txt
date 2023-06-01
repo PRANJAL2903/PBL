@@ -1,0 +1,16 @@
+components:
+Raspberry Pi -college
+Camera Module 
+Wifi Module 
+Speaker -available
+LCD Display 
+Ultrasonic Sensor 
+Resistors 
+Capacitors 
+Buttons & Switches 
+Electrical & Wirings - available
+PCB Board 
+Diodes 
+Transistors 
+Connectors 
+Screws and Fittings - easily available
